@@ -1,0 +1,70 @@
+L001;Cien años de soledad;Gabriel García Márquez;1967;471;Realismo mágico;978-0307474728;Sudamericana;S003
+L002;Don Quijote de la Mancha;Miguel de Cervantes;1605;863;Novela;978-8491050291;Alfaguara;
+L003;1984;George Orwell;1949;328;Distopía;978-0451524935;Penguin;S007
+L004;Orgullo y prejuicio;Jane Austen;1813;414;Romántica;978-0141439518;Penguin Classics;
+L005;Fahrenheit 451;Ray Bradbury;1953;256;Ciencia ficción;978-1451673319;Simon & Schuster;
+L006;Crimen y castigo;Fiódor Dostoyevski;1866;671;Drama psicológico;978-0140449136;Vintage;
+L007;El principito;Antoine de Saint-Exupéry;1943;96;Fábula;978-0156012195;Reynal & Hitchcock;S012
+L008;Los pilares de la Tierra;Ken Follett;1989;1076;Histórica;978-0451166890;Plaza & Janés;
+L009;Matar a un ruiseñor;Harper Lee;1960;336;Drama;978-0061120084;HarperCollins;
+L010;El nombre de la rosa;Umberto Eco;1980;592;Misterio;978-0156001311;Bompiani;S010
+L011;La sombra del viento;Carlos Ruiz Zafón;2001;576;Misterio;978-8408172177;Planeta;
+L012;El Hobbit;J. R. R. Tolkien;1937;310;Fantasía;978-0345339683;Allen & Unwin;
+L013;El señor de los anillos;J. R. R. Tolkien;1954;1216;Fantasía;978-0618640157;Allen & Unwin;S002
+L014;Drácula;Bram Stoker;1897;488;Terror;978-0486411095;Wordsworth Editions;
+L015;Frankenstein;Mary Shelley;1818;280;Terror;978-0486282114;Penguin Classics;
+L016;La odisea;Homero;-700;541;Épica;978-0140268867;Penguin Classics;
+L017;Los miserables;Victor Hugo;1862;1463;Histórica;978-2070409187;Hachette;
+L018;El retrato de Dorian Gray;Oscar Wilde;1890;254;Ficción;978-0141439570;Penguin Classics;
+L019;El guardián entre el centeno;J. D. Salinger;1951;277;Ficción;978-0316769488;Little, Brown;
+L020;Rebelión en la granja;George Orwell;1945;112;Satírica;978-0451526346;Penguin;
+L021;Los juegos del hambre;Suzanne Collins;2008;374;Distopía;978-0439023481;Scholastic;
+L022;Harry Potter y la piedra filosofal;J. K. Rowling;1997;309;Fantasía;978-8478884452;Salamandra;
+L023;It;Stephen King;1986;1138;Terror;978-1501142970;Viking;
+L024;Carrie;Stephen King;1974;199;Terror;978-0307743664;Viking;
+L025;El código Da Vinci;Dan Brown;2003;616;Thriller;978-0307474278;Doubleday;
+L026;Ángeles y demonios;Dan Brown;2000;736;Thriller;978-0743493468;Doubleday;
+L027;Inferno;Dan Brown;2013;609;Thriller;978-0385537858;Doubleday;S006
+L028;Sapiens: De animales a dioses;Yuval Noah Harari;2011;512;Ensayo;978-8499926222;Debate;
+L029;Homo Deus;Yuval Noah Harari;2015;496;Ensayo;978-8499927212;Debate;
+L030;Breve historia del tiempo;Stephen Hawking;1988;256;Ciencia;978-0553380163;Bantam;
+L031;Cosmos;Carl Sagan;1980;365;Ciencia;978-0345539434;Ballantine;
+L032;Ensayo sobre la ceguera;José Saramago;1995;352;Ficción;978-0156007757;Alfaguara;S001
+L033;Rayuela;Julio Cortázar;1963;736;Experimental;978-8437603136;Sudamericana;
+L034;La tregua;Mario Benedetti;1960;160;Romántica;978-9681603979;Alianza;
+L035;El amor en los tiempos del cólera;Gabriel García Márquez;1985;368;Romántica;978-0307389731;Sudamericana;
+L036;Tokio Blues;Haruki Murakami;1987;389;Drama;978-8499088036;Tusquets;
+L037;Kafka en la orilla;Haruki Murakami;2002;606;Ficción;978-1400079278;Tusquets;
+L038;1Q84;Haruki Murakami;2009;928;Fantasía;978-0307476462;Tusquets;S009
+L039;El alquimista;Paulo Coelho;1988;208;Fábula;978-0061122415;HarperOne;
+L040;Veronika decide morir;Paulo Coelho;1998;212;Drama;978-0061124266;HarperOne;
+L041;La carretera;Cormac McCarthy;2006;287;Postapocalíptica;978-0307387898;Vintage;S014
+L042;El cuento de la criada;Margaret Atwood;1985;311;Distopía;978-0385490818;McClelland & Stewart;
+L043;La chica del tren;Paula Hawkins;2015;395;Thriller;978-0552779777;Riverhead Books;
+L044;Los hombres que no amaban a las mujeres;Stieg Larsson;2005;672;Thriller;978-0307949485;Destino;S005
+L045;Cazadores de sombras;Cassandra Clare;2007;512;Fantasía;978-1416955078;McElderry;
+L046;Percy Jackson y el ladrón del rayo;Rick Riordan;2005;377;Fantasía;978-0786838653;Disney-Hyperion;
+L047;El psicoanalista;John Katzenbach;2002;528;Thriller;978-8497593791;Ballantine;
+L048;Asesinato en el Orient Express;Agatha Christie;1934;256;Misterio;978-0062073501;Collins Crime Club;
+L049;Diez negritos;Agatha Christie;1939;272;Misterio;978-0062073488;Collins Crime Club;S008
+L050;Matar un reino;Alexandra Christo;2018;412;Fantasía;978-1250112682;Feiwel & Friends;
+L051;Alas de ónix;Rebecca Yarros;2024;896;Fantasía;978-8408288472;Planeta;
+L052;Victorian Psycho;Virginia Feito;2025;384;Thriller;978-8420463448;Alfaguara;
+L053;Te siguen;Belén Gopegui;2025;320;Espionaje;978-8439742352;Random House;
+L054;Un futuro prometedor;Pierre Lemaitre;2024;448;Narrativa contemporánea;978-8418033117;Salamandra;
+L055;Morir en la arena;Leonardo Padura;2024;560;Ficción histórica;978-8420472570;Tusquets;
+L056;Calliope. La voz de las llamas;Michael McDowell;2025;410;Novela gótica;978-8420644373;Blackwater;
+L057;La protegida;Rafael Tarradas Bultó;2025;480;Histórica;978-8408279340;Planeta;
+L058;Rose in Chains;Stephanie Garber;2025;416;Romántica Fantasía;978-8418033100;Montena;
+L059;Romper el hielo;Hannah Grace;2023;400;Juvenil Romántica;978-8418033162;Summerside;
+L060;Antes vivíamos aquí;Marcus Kliewer;2024;340;Thriller;978-8418033186;Libros de Seda;
+L061;Maeve Fly;CJ Leede;2024;312;Terror Contemporáneo;978-8418033193;Dimensiones Ocultas;
+L062;La asistenta;Freida McFadden;2023;352;Thriller;978-8491294283;Penguin;
+L063;La dama de la niebla;Luz Gabás;2025;384;Histórica Romántica;978-8408269785;Planeta;
+L064;Café y cigarrillos;Ferdinand Von Schirach;2025;260;Noir;978-8412345124;Anagrama;
+L065;Amanecer en la cosecha;Suzanne Collins;2023;464;Distopía Juvenil;978-8490436417;RBA;
+L066;Orbital;Samantha Harvey;2025;246;Ciencia Ficción;978-8412364255;Altamarea;
+L067;Escenas de una infancia;Jon Fosse;2025;192;Narrativa;978-8412077865;Nórdica;
+L068;Mi nombre es Emilia del Valle;Isabel Allende;2024;410;Narrativa Contemporánea;978-8420438766;Plaza & Janés;
+L069;El loco de Dios en Mongolia;Javier Cercas;2025;340;Narrativa;978-8408269327;Tusquets;
+L070;Los nombres de Feliza;Juan Gabriel Vásquez;2025;380;Narrativa;978-8466357891;Alfaguara;
