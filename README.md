@@ -35,6 +35,13 @@ Cuando inicias el programa, verás un menú con varias opciones. Puedes:
 - Visualizar qué socios tienen préstamos activos.
 - Salir (guardando los datos que acabas de cambiar en los archivos de texto).
 
+## Problemas encontrados y soluciones propuestas
+Durante el desarrollo de este pequeño proyecto me he topado con varios problemas:
+
+- Errores al intentar cerrar listas, en vez de archivos. Para solucionarlo tuve que corregir un error de la función `cargar_libros()`.
+- En un comienzo, los libros devueltos no se actualizaban, creando errores en los préstamos/devoluciones. Para corregirlo tuve que modificar la función `devolver_libro()` para actualizar su estado.
+- El sistema comenzó aceptando datos vacíos o que eran de un tipo incorrecto, y para evitarlo añadí unas validaciones básicas pero necesarias.
+
 ## Autor
 Proyecto realizado por Erika Martín Rivas para la clase de Python.
 
