@@ -1,7 +1,7 @@
 # Gestor de Biblioteca en Python
 
 ## Descripción
-Este proyecto consiste en una aplicación de consola, sin interfáz gráfica, que permite gestionar los libros y socios de una biblioteca. El sistema permite cargar, almacenar y editar datos, como pueden ser la gestión de los préstamos y devoluciones. Todos los datos se guardan y leen desde archivos de texto.
+Este proyecto consiste en una aplicación de consola, sin interfáz gráfica, que permite gestionar los libros y socios de una biblioteca. Todos los datos se guardan y leen desde archivos de texto (.txt).
 
 ## Requisitos
 - Python 3.13.7 instalado
@@ -20,20 +20,20 @@ Este proyecto consiste en una aplicación de consola, sin interfáz gráfica, qu
 - `libro.py`: Definición de la clase Libro.
 - `socio.py`: Definición de la clase Socio
 - `funciones.py`: Funciones para cargar, guardar y manipular libros y socios.
-- `ficheros/libros.txt` y `ficheros/socios.txt`: Archivos de datos de la biblioteca.
+- `ficheros/libros.txt` y `ficheros/socios.txt`: Archivos de texto que contienen los datos de la biblioteca.
 
 ## Funcionamiento
 Cuando inicias el programa, verás un menú con varias opciones. Puedes:
 
-- Mostrar todos los libros
-- Consultar los libros disponibles para préstamo
-- Buscar libros por título
-- Prestar libros a socios
-- Registrar la devolución de un libro
-- Mostrar socios y sus datos
-- Añadir nuevos socios
-- Visualizar qué socios tienen préstamos activos
-- Salir (guardando los datos que acabas de cambiar en los archivos de texto)
+- Mostrar todos los libros.
+- Consultar los libros disponibles para préstamo.
+- Buscar libros por título.
+- Prestar libros a socios.
+- Registrar la devolución de un libro.
+- Mostrar socios y sus datos.
+- Añadir nuevos socios.
+- Visualizar qué socios tienen préstamos activos.
+- Salir (guardando los datos que acabas de cambiar en los archivos de texto).
 
 ## Autor
 Proyecto realizado por Erika Martín Rivas para la clase de Python.
