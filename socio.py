@@ -7,5 +7,6 @@ class Socio:
         self.email = email
         self.telefono = telefono
         self.direccion = direccion
-        self.fecha_cumpleanios = fecha_cumpleanios
+        self.fecha_cumpleanios = fecha_cumpleanios # He añadido la fecha de cumpleaños pensando en una futura funcionalidad. Esta podría ser que,
+        # en el día del cumpleaños del socio, en caso de que pase a coger un libro prestado avise por consola al usuario de que es su cumpleaños.
         self.codigo_libro = codigo_libro
