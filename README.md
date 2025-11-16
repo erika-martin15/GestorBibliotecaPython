@@ -36,7 +36,7 @@ Cuando inicias el programa, verás un menú con varias opciones. Puedes:
 - Salir (guardando los datos que acabas de cambiar en los archivos de texto)
 
 ## Autor
-Proyecto realizado por [Erika Martín Rivas] para la clase de Python.
+Proyecto realizado por Erika Martín Rivas para la clase de Python.
 
 ## Contacto
 Si tienes cualquier duda o sugerencia, puedes encontrarme en el correo electrónico [ikdhe@plaiaundi.net].
